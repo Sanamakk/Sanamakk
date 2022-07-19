@@ -1,7 +1,7 @@
 ### Olá eu sou o Lucas H. Silva
 
 - 🔭 Atualmente trabalhando com projetos de back-end
-- 🌱 Estudando Python, SQL, JavaScript e Visual Studio
+- 🌱 Estudando Python, SQL, JavaScript CSS e HTML. 
 - 📫 Contate-me no e-mail: lucashs.work@gmail.com
 
 
