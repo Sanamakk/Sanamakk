@@ -5,13 +5,6 @@
 - 📫 Contate-me no e-mail: lucashs.work@gmail.com
 
 
-<div align="center">
-  <a href="https://github.com/Sanamakk">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Sanamakk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanamakk&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas H. Silva-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas H. Silva-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
